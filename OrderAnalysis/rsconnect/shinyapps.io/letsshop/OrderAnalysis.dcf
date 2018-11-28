@@ -1,0 +1,12 @@
+name: OrderAnalysis
+title: OrderAnalysis
+username:
+account: letsshop
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 593333
+bundleId: 1725065
+url: https://letsshop.shinyapps.io/OrderAnalysis/
+when: 1543375947.8167
+asMultiple: FALSE
+asStatic: FALSE
